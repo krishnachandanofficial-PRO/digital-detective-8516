@@ -35,4 +35,5 @@ All nine missions have their own README and commit.
 
 ## My Learning
 
-I have revised and completed all the assigned chapters and missions . Revisiting the hands-on exercises gave me a much clearer understanding of the mechanics behind my  workflow.  This consistent practice across all modules has built a solid, reliable technical foundation or practice of the subject 
+I have revised and completed all the assigned chapters and missions .Revisiting the hands-on exercises gave me a much clearer understanding of the mechanics behind my  workflow.
+This consistent practice across all modules has built a solid, reliable technical foundation or practice of the subject 
