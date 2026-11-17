@@ -35,8 +35,4 @@ All nine missions have their own README and commit.
 
 ## My Learning
 
-I have revised the chapters I worked on so far, from computer basics to numbers and data. I understand more clearly what happens when I type code: the keyboard gives input, the computer processes it, the screen shows it, and the SSD stores the file when I save.
-
-I learned more from the CLI activities too. `pwd` shows where I am, `ls` shows the files and folders there, and `cp` and `mv` let me make a copy or rename a file. I also saw that `>` replaces text but `>>` adds text without removing the first line.
-
-I learned more about GitHub by putting each mission in its own commit and using `update-about` for this README change. The branch and Pull Request let me see the change before it becomes part of `main`. I also used Python's `bin()` and `hex()` to check how a number looks in different number systems.
+I have revised and completed all the assigned chapters and missions . Revisiting the hands-on exercises gave me a much clearer understanding of the mechanics behind my  workflow.  This consistent practice across all modules has built a solid, reliable technical foundation or practice of the subject 
