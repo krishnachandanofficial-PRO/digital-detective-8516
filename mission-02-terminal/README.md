@@ -33,7 +33,7 @@ I copied it to `notes-copy.txt` and renamed that copy to `notes-backup.txt`. Bot
 
 ### Flags and pipes
 
-I compared `ls` with `ls -lah` in the repository. The normal listing showed the visible files and folders. The detailed listing also showed hidden `.git` and `.gitignore`, permissions, sizes such as `29B` for `.gitignore`, and dates. I did not copy the owner name into this README. `ls -lah | head -n 5` displayed only the first five lines of that listing.
+I compared `ls` with `ls -lah` in the repository. The normal listing showed the visible files and folders. The detailed listing also showed the hidden `.git` folder, permissions, readable sizes such as `2.6K` for the root README, and dates. I did not copy the owner name into this README. `ls -lah | head -n 5` displayed only the first five lines of that listing.
 
 ### Package manager check
 
