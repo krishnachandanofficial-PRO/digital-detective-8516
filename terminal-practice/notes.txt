@@ -1,2 +1,0 @@
-I typed code in VS Code.
-I saved the file on my computer.
