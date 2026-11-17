@@ -1,6 +1,6 @@
 # Digital Detective
 
-This repository contains the work for my Digital Detective assignment. I am completing the missions in order and recording each one in a separate commit.
+This repository contains the work for my Digital Detective assignment. I completed the missions in order and documented each one in a separate commit.
 
 Name: Krishna Chandan
 
@@ -16,7 +16,33 @@ Name: Krishna Chandan
 - [Mission 7 - Networking](mission-07-networking/README.md)
 - [Mission 8 - Final report](mission-08-final-report/README.md)
 
-The folders follow the mission order. Each mission README will contain its activities, observations and files.
+The folders follow the mission order. Each mission README contains its activities, observations and files.
+
+## Topics explored
+
+- How input, processing, output and storage work together
+- Hardware, software and computer systems around me
+- Terminal commands, file changes, flags and pipes
+- Operating systems, processes, paths, storage and permissions
+- Python programs, compilers and interpreters
+- Binary, decimal, hexadecimal and text encoding
+- Git commits, branches, GitHub and Pull Requests
+- Networks, DNS and how a website opens
+
+## Run the number converter
+
+From the repository folder, run:
+
+```sh
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+
+Type a positive decimal number when asked. The program shows its binary and hexadecimal forms.
+
+## Completion summary
+
+Missions 0 to 8 each have their own README and dedicated commit. The `update-about` branch and [merged Pull Request #1](https://github.com/krishnachandanofficial-PRO/digital-detective-8516/pull/1) show the GitHub activity. My Learning below gives a short summary of what I learned.
 
 ## My Learning
 
