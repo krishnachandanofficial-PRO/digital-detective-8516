@@ -31,7 +31,7 @@ The folders follow the mission order. Each mission README contains its activitie
 
 ## Completion summary
 
-All nine missions have their own README and commit, and [Pull Request #1](https://github.com/krishnachandanofficial-PRO/digital-detective-8516/pull/1) was merged.
+All nine missions have their own README and commit.
 
 ## My Learning
 
