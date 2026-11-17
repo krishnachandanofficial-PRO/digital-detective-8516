@@ -17,3 +17,9 @@ Name: Krishna Chandan
 - [Mission 8 - Final report](mission-08-final-report/README.md)
 
 The folders follow the mission order. Each mission README will contain its activities, observations and files.
+
+## My Learning
+
+- I learned that when I type code, the keyboard gives input, the screen shows the output and the SSD stores the file when I save it.
+- I learned that `pwd` shows where I am, `ls` shows what is in that folder, and `>` and `>>` change a file in different ways.
+- I learned that `bin()` and `hex()` take an integer and convert it into binary and hexadecimal strings.
