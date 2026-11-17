@@ -22,7 +22,7 @@ I created `digital-detective-8516` with a root README, folders for Missions 0 to
 
 A repository is a digital storage where we can store code or files that other people can access from their computers.
 
-I kept each mission in its own folder so I can find the files for one mission without searching through all the work.
+We want one folder for each mission because we can easily distinguish between them. Each chapter is a mission, so keeping them separate helps with conceptual understanding as well.
 
 ## 5. Difficulties faced
 
