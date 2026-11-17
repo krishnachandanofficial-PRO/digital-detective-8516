@@ -29,20 +29,9 @@ The folders follow the mission order. Each mission README contains its activitie
 - Git commits, branches, GitHub and Pull Requests
 - Networks, DNS and how a website opens
 
-## Run the number converter
-
-From the repository folder, run:
-
-```sh
-cd mission-05-numbers-data
-python3 number_converter.py
-```
-
-Type a positive decimal number when asked. The program shows its binary and hexadecimal forms.
-
 ## Completion summary
 
-Missions 0 to 8 each have their own README and dedicated commit. The `update-about` branch and [merged Pull Request #1](https://github.com/krishnachandanofficial-PRO/digital-detective-8516/pull/1) show the GitHub activity. My Learning below gives a short summary of what I learned.
+All nine missions have their own README and commit, and [Pull Request #1](https://github.com/krishnachandanofficial-PRO/digital-detective-8516/pull/1) was merged.
 
 ## My Learning
 

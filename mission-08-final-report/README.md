@@ -20,7 +20,7 @@ I checked that all nine mission folders have a README with the required sections
 | 7 - Networking | Completed and pushed with network checks and website steps. |
 | 8 - Final report | Final review and README update completed in this mission commit. |
 
-I expanded the root README with topics, converter instructions, My Learning and a completion summary. I also updated the Mission 6 README after merging the PR. Before publishing, I checked for my full USN, local username, personal email and private network details in the files. The only IP addresses in the public notes belong to `example.com` from the DNS lookup.
+I expanded the root README with topics, My Learning and a completion summary. I also updated the Mission 6 README after merging the PR. Before publishing, I checked for my full USN, local username, personal email and private network details in the files. The only IP addresses in the public notes belong to `example.com` from the DNS lookup.
 
 Repository URL for the instructor form: [digital-detective-8516](https://github.com/krishnachandanofficial-PRO/digital-detective-8516).
 
@@ -49,7 +49,7 @@ Not applicable.
 
 ## 7. Evidence / files
 
-The root `README.md` links every mission and explains how to run the converter. The mission READMEs, `hello.py`, `number_converter.py`, practice files, commit history, `update-about` branch and merged PR are the evidence.
+The root `README.md` links every mission and summarizes the topics and learning. The mission READMEs, `hello.py`, `number_converter.py`, practice files, commit history, `update-about` branch and merged PR are the evidence.
 
 ## 8. Commit details
 
